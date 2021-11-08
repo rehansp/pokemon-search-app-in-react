@@ -18,7 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"sss
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -42,3 +42,4 @@
     "gh-pages": "^3.2.3"
   }
 }
+// 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
